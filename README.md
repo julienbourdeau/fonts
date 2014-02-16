@@ -3,7 +3,7 @@ My Fonts
 
 All the fonts I use and I need to keep.
 
-## How to install (Mac)
+## How to install (Mac OS X)
 
 Clone the repository or download the zipball.
 
